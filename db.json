@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "id": "FHW",
+      "name": "Fadillah Hamdi Wanadi",
+      "password": "12345",
+      "email": "Hamdi11adi@gmail.com"
+    },
+    {
+      "id": "RS",
+      "name": "Rina Santika",
+      "password": "12345",
+      "email": "sanrin5111@gmail.com"
+    },
+    {
+      "id": "ATP",
+      "name": "Aulya Thareeq Pravantawidya",
+      "password": "12345",
+      "email": "aulyathareeq@gmail.com"
+    },
+    {
+      "id": "AZB",
+      "name": "Arif Zulham Bagaskara",
+      "password": "12345",
+      "email": "ArifZulham@gmail.com"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "user",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    }
+  ]
+}
